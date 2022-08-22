@@ -1,7 +1,7 @@
 # resume
 
-![](./resume_public-1.jpg)
+![](./resume_public-1.png)
 
-![](./resume_public-2.jpg)
+![](./resume_public-2.png)
 
-![](./resume_public-3.jpg)
+![](./resume_public-3.png)
